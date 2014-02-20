@@ -1,0 +1,7 @@
+{
+  "name": "component-clickable",
+  "description": "Check if a click event is clickable",
+  "version": "0.0.4",
+  "dependencies": {},
+  "license": "MIT"
+}
